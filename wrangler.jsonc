@@ -98,3 +98,9 @@
   // - R2_SECRET_ACCESS_KEY: R2 secret access key (from R2 API tokens)
   // - CF_ACCOUNT_ID: Your Cloudflare account ID (for R2 endpoint URL)
 }
+{
+  "name": "molbot-sandbox",
+  "account_id": "1bdbcf3df355d511466b9f9dc9f0dab3",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-01-01"
+}
